@@ -1,8 +1,5 @@
 i am good
 nothing
 i am bad boy
-<<<<<<< HEAD
 i am zero
-=======
 i am worst
->>>>>>> 5c4931b312fe26ba51ca7b6bab6e5dfa165d2a11
